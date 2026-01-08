@@ -7,5 +7,6 @@ A Random Forest classification model is used to learn these patterns due to its 
 3. Predicted smell
 4. Associated chemical name
 5. Chemical type
+   
 The final system also reports the overall model accuracy and displays sample predictions to demonstrate performance.
 This approach is particularly useful in scenarios where hardware smell sensors are unavailable, costly, or impractical, such as large-scale surveillance, smart cities, traffic monitoring, or preliminary environmental assessment systems.
